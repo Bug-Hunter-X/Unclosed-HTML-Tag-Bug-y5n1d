@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked HTML bug: unclosed tags.  Unclosed tags can cause unexpected layout problems, particularly when dealing with nested elements. The bug.html file showcases this issue.  The bugSolution.html file provides the correct code with closed tags. This example highlights the importance of meticulous HTML writing.
